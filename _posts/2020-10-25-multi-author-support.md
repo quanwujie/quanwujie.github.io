@@ -37,10 +37,6 @@ social:  # Author Social profile links
       url: "https://www.linkedin.com/in/johndoe"
     - title: "youtube"
       url: "https://www.youtube.com/channel/UCSfLBFFfNU9r6ihfei6VeJw"
-    - title: "facebook"
-      url: "https://www.facebook.com/johndoe"
-    - title: "twitter"
-      url: "https://www.twitter.com/johndoe"
     - title: "behance"
       url: "https://behance.com/johndoe"
     - title: "instagram"
@@ -75,10 +71,6 @@ johndoe:
         url: "https://www.linkedin.com/in/johndoe"
       - title: "youtube"
         url: "https://www.youtube.com/channel/UCSfLBFFfNU9r6ihfei6VeJw"
-      - title: "facebook"
-        url: "https://www.facebook.com/johndoe"
-      - title: "twitter"
-        url: "https://www.twitter.com/johndoe"
       - title: "behance"
         url: "https://behance.com/johndoe"
       - title: "instagram"
@@ -107,8 +99,6 @@ janedoe:
         url: "https://www.linkedin.com/janedoe"
       - title: "youtube"
         url: "https://www.youtube.com/channel/UCSfLBFFfNU9r6ihfei6VeJw"
-      - title: "facebook"
-        url: "https://www.facebook.com/janedoe"
 
 ```
 

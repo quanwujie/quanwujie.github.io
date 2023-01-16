@@ -1,4 +1,6 @@
+// @ts-ignore
 import { IconDefinition, IconLookup, IconName, IconPrefix, IconPack } from '@fortawesome/fontawesome-common-types';
+// @ts-ignore
 export { IconDefinition, IconLookup, IconName, IconPrefix, IconPack } from '@fortawesome/fontawesome-common-types';
 export const prefix: IconPrefix;
 export const fab: IconPack;
@@ -108,10 +110,6 @@ export const faErlang: IconDefinition;
 export const faEthereum: IconDefinition;
 export const faEtsy: IconDefinition;
 export const faExpeditedssl: IconDefinition;
-export const faFacebook: IconDefinition;
-export const faFacebookF: IconDefinition;
-export const faFacebookMessenger: IconDefinition;
-export const faFacebookSquare: IconDefinition;
 export const faFirefox: IconDefinition;
 export const faFirstOrder: IconDefinition;
 export const faFirstOrderAlt: IconDefinition;
@@ -327,8 +325,6 @@ export const faTripadvisor: IconDefinition;
 export const faTumblr: IconDefinition;
 export const faTumblrSquare: IconDefinition;
 export const faTwitch: IconDefinition;
-export const faTwitter: IconDefinition;
-export const faTwitterSquare: IconDefinition;
 export const faTypo3: IconDefinition;
 export const faUber: IconDefinition;
 export const faUikit: IconDefinition;

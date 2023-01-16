@@ -24,10 +24,6 @@
 
     var defaults = {
         share: true,
-        facebook: true,
-        facebookDropdownText: 'Facebook',
-        twitter: true,
-        twitterDropdownText: 'Twitter',
         googlePlus: true,
         googlePlusDropdownText: 'GooglePlus',
         pinterest: true,
@@ -50,8 +46,6 @@
         var _this = this;
         var shareHtml = '<span id="lg-share" class="lg-icon">' +
             '<ul class="lg-dropdown" style="position: absolute;">';
-        shareHtml += _this.core.s.facebook ? '<li><a id="lg-share-facebook" target="_blank"><span class="lg-icon"></span><span class="lg-dropdown-text">' + this.core.s.facebookDropdownText + '</span></a></li>' : '';
-        shareHtml += _this.core.s.twitter ? '<li><a id="lg-share-twitter" target="_blank"><span class="lg-icon"></span><span class="lg-dropdown-text">' + this.core.s.twitterDropdownText + '</span></a></li>' : '';
         shareHtml += _this.core.s.googlePlus ? '<li><a id="lg-share-googleplus" target="_blank"><span class="lg-icon"></span><span class="lg-dropdown-text">' + this.core.s.googlePlusDropdownText + '</span></a></li>' : '';
         shareHtml += _this.core.s.pinterest ? '<li><a id="lg-share-pinterest" target="_blank"><span class="lg-icon"></span><span class="lg-dropdown-text">' + this.core.s.pinterestDropdownText + '</span></a></li>' : '';
         shareHtml += '</ul></span>';
@@ -69,10 +63,6 @@
         _this.core.$el.on('onAfterSlide.lg.tm', function(event, prevIndex, index) {
 
             setTimeout(function() {
-
-                $('#lg-share-facebook').attr('href', 'https://www.facebook.com/sharer/sharer.php?u=' + (encodeURIComponent(_this.getSahreProps(index, 'facebookShareUrl') || window.location.href)));
-
-                $('#lg-share-twitter').attr('href', 'https://twitter.com/intent/tweet?text=' + _this.getSahreProps(index, 'tweetText') + '&url=' + (encodeURIComponent(_this.getSahreProps(index, 'twitterShareUrl') || window.location.href)));
 
                 $('#lg-share-googleplus').attr('href', 'https://plus.google.com/share?url=' + (encodeURIComponent(_this.getSahreProps(index, 'googleplusShareUrl') || window.location.href)));
 

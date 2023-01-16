@@ -1207,18 +1207,6 @@ readers do not read off random characters that represent icons */
 .fa-eye-slash:before {
   content: "\f070"; }
 
-.fa-facebook:before {
-  content: "\f09a"; }
-
-.fa-facebook-f:before {
-  content: "\f39e"; }
-
-.fa-facebook-messenger:before {
-  content: "\f39f"; }
-
-.fa-facebook-square:before {
-  content: "\f082"; }
-
 .fa-fast-backward:before {
   content: "\f049"; }
 
@@ -3180,12 +3168,6 @@ readers do not read off random characters that represent icons */
 
 .fa-twitch:before {
   content: "\f1e8"; }
-
-.fa-twitter:before {
-  content: "\f099"; }
-
-.fa-twitter-square:before {
-  content: "\f081"; }
 
 .fa-typo3:before {
   content: "\f42b"; }

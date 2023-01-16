@@ -125,13 +125,6 @@ permalink: /styleguide/
 
 <hr>
 
-<h3> Twitter Embed </h3>
-
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">I just published “Deploying a blog using Jekyll and Github Pages with SSL certificate for Free” <a href="https://t.co/B3T3IQVU93">https://t.co/B3T3IQVU93</a></p>&mdash; Sujay Kundu (@SujayKundu777) <a href="https://twitter.com/SujayKundu777/status/1012601950469160962?ref_src=twsrc%5Etfw">June 29, 2018</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<hr />
-
 
 <h3>YouTube Responsive Embed</h3>
 

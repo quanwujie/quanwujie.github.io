@@ -1,45 +1,4 @@
 //*-- Socials --*\\
-.icono-facebook{
-    width: $U9;
-    height: $U26;
-    box-shadow: inset $U2 $U4 0 0;
-    border-left: $U3 solid;
-    @include border-radius($U5 0 0 0);
-    margin: $U4 $U11 $U4 $U14;
-    &:before{
-        position: absolute;
-        top: $U9;
-        left: -1*$U6;
-        width: $U11;
-        height: 0;
-        border-top: $U4 solid;
-        border-right: $U1 solid transparent;
-    }
-}
-.icono-twitter{
-    width: $U14;
-    height: $U23;
-    @include border-radius(0 0 0 $U8);
-    box-shadow: -1*$U6 $U2 0 0;
-    margin: $U4 $U7 $U7 $U13;
-    &:before{
-        position: absolute;
-        bottom: -1*$U2;
-        left: -1*$U6;
-        width: $U17;
-        height: $U6;
-        @include border-radius(0 0 0 $U8);
-        box-shadow: inset $U4 -1*$U6, 0 -1*$U11;
-    }
-    &:after{
-        position: absolute;
-        width: $U6;
-        height: $U6;
-        box-shadow: inset 0 0 0 $U32, $U13 $U8, $U13 $U19;
-        @include border-radius(50%);
-        left: -1*$U6;
-    }
-}
 .icono-gplus{
     width: $U10;
     height: $U2;

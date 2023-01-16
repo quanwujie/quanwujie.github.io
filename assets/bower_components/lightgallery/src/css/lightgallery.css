@@ -729,18 +729,6 @@ body:not(.lg-from-hash) .lg-outer.lg-start-zoom .lg-item.lg-complete .lg-object 
 .lg-outer #lg-share:after {
   content: "\e80d";
 }
-.lg-outer #lg-share-facebook .lg-icon {
-  color: #3b5998;
-}
-.lg-outer #lg-share-facebook .lg-icon:after {
-  content: "\e901";
-}
-.lg-outer #lg-share-twitter .lg-icon {
-  color: #00aced;
-}
-.lg-outer #lg-share-twitter .lg-icon:after {
-  content: "\e904";
-}
 .lg-outer #lg-share-googleplus .lg-icon {
   color: #dd4b39;
 }

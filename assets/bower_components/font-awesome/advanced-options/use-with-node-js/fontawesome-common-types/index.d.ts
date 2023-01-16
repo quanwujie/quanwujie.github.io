@@ -496,11 +496,7 @@ export type IconName = 'address-book' |
   'ethereum' | 
   'etsy' | 
   'expeditedssl' | 
-  'facebook' | 
-  'facebook-f' | 
-  'facebook-messenger' | 
-  'facebook-square' | 
-  'firefox' | 
+  'firefox' |
   'first-order' | 
   'first-order-alt' | 
   'firstdraft' | 
@@ -1118,9 +1114,7 @@ export type IconName = 'address-book' |
   'tumblr' | 
   'tumblr-square' | 
   'twitch' | 
-  'twitter' | 
-  'twitter-square' | 
-  'typo3' | 
+  'typo3' |
   'uber' | 
   'uikit' | 
   'uniregistry' | 

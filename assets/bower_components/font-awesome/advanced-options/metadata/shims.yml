@@ -104,12 +104,6 @@ eye-slash:
   prefix: far
 eyedropper:
   name: eye-dropper
-facebook:
-  name: facebook-f
-  prefix: fab
-facebook-official:
-  name: facebook
-  prefix: fab
 file-text:
   name: file-alt
 files-o:

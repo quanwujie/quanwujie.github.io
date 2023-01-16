@@ -190,16 +190,6 @@
     "chart-bar"
   ],
   [
-    "twitter-square",
-    "fab",
-    null
-  ],
-  [
-    "facebook-square",
-    "fab",
-    null
-  ],
-  [
     "gears",
     null,
     "cogs"
@@ -263,21 +253,6 @@
     "bookmark-o",
     "far",
     "bookmark"
-  ],
-  [
-    "twitter",
-    "fab",
-    null
-  ],
-  [
-    "facebook",
-    "fab",
-    "facebook-f"
-  ],
-  [
-    "facebook-f",
-    "fab",
-    "facebook-f"
   ],
   [
     "github",
@@ -1583,11 +1558,6 @@
     "intersex",
     null,
     "transgender"
-  ],
-  [
-    "facebook-official",
-    "fab",
-    "facebook"
   ],
   [
     "pinterest-p",

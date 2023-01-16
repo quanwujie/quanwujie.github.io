@@ -3994,48 +3994,6 @@ eye-slash:
     - solid
     - regular
   unicode: f070
-facebook:
-  changes:
-    - '2'
-    - 5.0.0
-  label: Facebook
-  search:
-    terms:
-      - facebook-official
-      - social network
-  styles:
-    - brands
-  unicode: f09a
-facebook-f:
-  changes:
-    - 5.0.0
-  label: Facebook F
-  search:
-    terms:
-      - facebook
-  styles:
-    - brands
-  unicode: f39e
-facebook-messenger:
-  changes:
-    - 5.0.0
-  label: Facebook Messenger
-  search:
-    terms: []
-  styles:
-    - brands
-  unicode: f39f
-facebook-square:
-  changes:
-    - '1'
-    - 5.0.0
-  label: Facebook Square
-  search:
-    terms:
-      - social network
-  styles:
-    - brands
-  unicode: f082
 fast-backward:
   changes:
     - '1'
@@ -11538,30 +11496,6 @@ twitch:
   styles:
     - brands
   unicode: f1e8
-twitter:
-  changes:
-    - '2'
-    - 5.0.0
-  label: Twitter
-  search:
-    terms:
-      - social network
-      - tweet
-  styles:
-    - brands
-  unicode: f099
-twitter-square:
-  changes:
-    - '1'
-    - 5.0.0
-  label: Twitter Square
-  search:
-    terms:
-      - social network
-      - tweet
-  styles:
-    - brands
-  unicode: f081
 typo3:
   changes:
     - 5.0.1

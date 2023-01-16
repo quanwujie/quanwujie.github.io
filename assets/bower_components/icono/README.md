@@ -141,8 +141,6 @@ Also you can change color of icons as simple as set color for an element.
 * `icono-ruler`
 * `icono-cup`
 * `icono-creditCard`
-* `icono-facebook`
-* `icono-twitter`
 * `icono-gplus`
 * `icono-linkedIn`
 * `icono-instagram`

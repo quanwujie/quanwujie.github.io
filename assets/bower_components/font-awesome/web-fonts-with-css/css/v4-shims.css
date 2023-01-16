@@ -188,14 +188,6 @@
 .fa.fa-bar-chart-o:before {
   content: "\f080"; }
 
-.fa.fa-twitter-square {
-  font-family: 'Font Awesome 5 Brands';
-  font-weight: 400; }
-
-.fa.fa-facebook-square {
-  font-family: 'Font Awesome 5 Brands';
-  font-weight: 400; }
-
 .fa.fa-gears:before {
   content: "\f085"; }
 
@@ -263,24 +255,6 @@
 
 .fa.fa-bookmark-o:before {
   content: "\f02e"; }
-
-.fa.fa-twitter {
-  font-family: 'Font Awesome 5 Brands';
-  font-weight: 400; }
-
-.fa.fa-facebook {
-  font-family: 'Font Awesome 5 Brands';
-  font-weight: 400; }
-
-.fa.fa-facebook:before {
-  content: "\f39e"; }
-
-.fa.fa-facebook-f {
-  font-family: 'Font Awesome 5 Brands';
-  font-weight: 400; }
-
-.fa.fa-facebook-f:before {
-  content: "\f39e"; }
 
 .fa.fa-github {
   font-family: 'Font Awesome 5 Brands';
@@ -1497,13 +1471,6 @@
 
 .fa.fa-intersex:before {
   content: "\f224"; }
-
-.fa.fa-facebook-official {
-  font-family: 'Font Awesome 5 Brands';
-  font-weight: 400; }
-
-.fa.fa-facebook-official:before {
-  content: "\f09a"; }
 
 .fa.fa-pinterest-p {
   font-family: 'Font Awesome 5 Brands';
