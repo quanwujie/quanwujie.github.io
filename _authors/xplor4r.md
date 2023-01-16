@@ -1,15 +1,15 @@
 ---
-name: Sujay Kundu
-username: xplor4r
-bio: "Full Stack Web Developer, based in Bangalore, India"
-site: https://sujaykundu.com
+name: quanwujie
+username: 安东权氏
+bio: "python开发"
+site: https://quanwujie.github.io
 avatar: xplor4r.png
-email: mail@sujaykundu.com
+email: 123456789@qq.com
 social:
     - title: "github"
-      url: "https://github.com/sujaykundu777"
+      url: "https://github.com/quanwujie"
     - title: "linkedin"
-      url: "https://www.linkedin.com/in/sujaykundu"
+      url: "https://www.linkedin.com/in/quanwujie"
     - title: "youtube"
-      url: "https://www.youtube.com/channel/UCSfLBFFfNU9r6ihfei6VeJw"
+      url: "https://www.youtube.com/channel/quanwujie"
 ---
